@@ -3,11 +3,12 @@ import { Building, Prisma } from "@prisma/client";
 import { paginationHelpers } from "../../../helpers/paginationHelper";
 import { IGenericResponse } from "../../../interfaces/common";
 import { IPaginationOptions } from "../../../interfaces/pagination";
-import prisma from "../../../shared/prisma";
 import { buildingSearchableFields } from "./building.constants";
 import { IBuildingFilterRequest } from "./building.interface";
+import prisma from "../../../shared/prisma";
 
 const insertIntoDB = async (data: Building): Promise<Building> => {
+    console.log(data)
     const result = await prisma.building.create({
         data
     })

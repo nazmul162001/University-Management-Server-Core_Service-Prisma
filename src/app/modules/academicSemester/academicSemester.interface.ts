@@ -1,3 +1,3 @@
 export type IAcademicSemeterFilterRequest = {
-  searchTerm?: string;
-};
+    searchTerm?: string
+}
