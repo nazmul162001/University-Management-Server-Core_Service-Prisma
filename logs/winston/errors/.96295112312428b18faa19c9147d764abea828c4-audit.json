@@ -69,6 +69,16 @@
             "date": 1692940532023,
             "name": "P:\\NEXT-LEVEL\\university-management-backend-core-service-sql-prisma\\logs\\winston\\errors\\phu-2023-25-08-11-error.log",
             "hash": "543711d4a3d6196369e6d40b59b9dc6026032467f73a95edc6b86ab9b1102534"
+        },
+        {
+            "date": 1693057525571,
+            "name": "P:\\NEXT-LEVEL\\university-management-backend-core-service-sql-prisma\\logs\\winston\\errors\\phu-2023-26-08-19-error.log",
+            "hash": "49c5693640fb27b7537eea0c2636da4605cc64d3136ee334c2c548663880ee63"
+        },
+        {
+            "date": 1693058401195,
+            "name": "P:\\NEXT-LEVEL\\university-management-backend-core-service-sql-prisma\\logs\\winston\\errors\\phu-2023-26-08-20-error.log",
+            "hash": "aa085c9556930f394505dcb2665062576b07b3ddc6d07c150bae5578a2f980b4"
         }
     ],
     "hashType": "sha256"
